@@ -1,6 +1,21 @@
-# 📚 ETL Boletim Inteligente — IA aplicada à Educação
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=ETL+Boletim+Inteligente&subtitle=Pipeline+ETL+com+Python+e+Claude+AI+para+Educa%C3%A7%C3%A3o&logo=python&theme=purple&mode=dark" />
+    <img alt="ETL Boletim Inteligente" src="https://shieldcn.dev/header/graph.svg?title=ETL+Boletim+Inteligente&subtitle=Pipeline+ETL+com+Python+e+Claude+AI+para+Educa%C3%A7%C3%A3o&logo=python&theme=purple&mode=light" />
+  </picture>
+</p>
 
-> Pipeline ETL completo com Python e Claude AI para geração de boletins pedagógicos personalizados.
+<p align="center">
+  <a href="https://github.com/MisterAntoY/ETL_Boletim_Inteligente"><img alt="GitHub Stars" src="https://shieldcn.dev/github/stars/MisterAntoY/ETL_Boletim_Inteligente.svg?variant=secondary&size=sm&theme=purple" /></a>
+  <a href="https://github.com/MisterAntoY/ETL_Boletim_Inteligente"><img alt="Last Commit" src="https://shieldcn.dev/github/last-commit/MisterAntoY/ETL_Boletim_Inteligente.svg?variant=secondary&size=sm&theme=purple" /></a>
+  <img alt="Python 3" src="https://shieldcn.dev/badge/Python-3.10%2B-3776AB.svg?logo=python&variant=secondary&size=sm" />
+  <img alt="Claude AI" src="https://shieldcn.dev/badge/IA-Claude_Anthropic-D97706.svg?logo=anthropic&variant=secondary&size=sm" />
+  <img alt="Pandas" src="https://shieldcn.dev/badge/Data-Pandas-150458.svg?logo=pandas&variant=secondary&size=sm" />
+</p>
+
+---
+
+> Pipeline ETL completo com Python e Claude AI para geração e análise de boletins pedagógicos personalizados para instituições educacionais.
 
 ---
 
